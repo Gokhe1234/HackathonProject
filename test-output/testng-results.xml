@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-01T16:15:19 IST" name="Suite" finished-at="2024-03-01T16:17:49 IST" duration-ms="149671">
+    <groups>
+    </groups>
+    <test started-at="2024-03-01T16:15:19 IST" name="Test" finished-at="2024-03-01T16:17:49 IST" duration-ms="149671">
+      <class name="testCases.TestCase">
+        <test-method is-config="true" signature="openUrl(java.lang.String,java.lang.String)[pri:0, instance:testCases.TestCase@24aed80c]" started-at="2024-03-01T16:15:20 IST" name="openUrl" finished-at="2024-03-01T16:15:40 IST" duration-ms="20478" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="validatTravelInsunce()[pri:1, instance:testCases.TestCase@24aed80c]" started-at="2024-03-01T16:15:40 IST" name="validatTravelInsunce" finished-at="2024-03-01T16:15:42 IST" duration-ms="2070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatTravelInsunce -->
+        <test-method signature="travelDetails()[pri:2, instance:testCases.TestCase@24aed80c]" started-at="2024-03-01T16:15:42 IST" name="travelDetails" finished-at="2024-03-01T16:15:52 IST" duration-ms="9449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- travelDetails -->
+        <test-method signature="studentDataVerify()[pri:3, instance:testCases.TestCase@24aed80c]" started-at="2024-03-01T16:15:52 IST" name="studentDataVerify" finished-at="2024-03-01T16:15:57 IST" duration-ms="4684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- studentDataVerify -->
+        <test-method signature="dataSort()[pri:4, instance:testCases.TestCase@24aed80c]" started-at="2024-03-01T16:15:57 IST" name="dataSort" finished-at="2024-03-01T16:16:09 IST" duration-ms="12107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataSort -->
+        <test-method signature="StudentPlanDetails()[pri:5, instance:testCases.TestCase@24aed80c]" started-at="2024-03-01T16:16:09 IST" name="StudentPlanDetails" finished-at="2024-03-01T16:16:13 IST" duration-ms="4214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StudentPlanDetails -->
+        <test-method signature="CarInsurenceDetails()[pri:6, instance:testCases.TestCase@24aed80c]" started-at="2024-03-01T16:16:13 IST" name="CarInsurenceDetails" finished-at="2024-03-01T16:16:27 IST" duration-ms="13725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarInsurenceDetails -->
+        <test-method signature="errorMessageValidate()[pri:7, instance:testCases.TestCase@24aed80c]" started-at="2024-03-01T16:16:27 IST" name="errorMessageValidate" finished-at="2024-03-01T16:16:29 IST" duration-ms="1969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- errorMessageValidate -->
+        <test-method signature="correctDatailValidation()[pri:8, instance:testCases.TestCase@24aed80c]" started-at="2024-03-01T16:16:29 IST" name="correctDatailValidation" finished-at="2024-03-01T16:16:34 IST" duration-ms="4982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctDatailValidation -->
+        <test-method signature="HealthInsurancePlan()[pri:9, instance:testCases.TestCase@24aed80c]" started-at="2024-03-01T16:16:34 IST" name="HealthInsurancePlan" finished-at="2024-03-01T16:17:07 IST" duration-ms="32978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HealthInsurancePlan -->
+        <test-method signature="allHealthInsurance()[pri:10, instance:testCases.TestCase@24aed80c]" started-at="2024-03-01T16:17:07 IST" name="allHealthInsurance" finished-at="2024-03-01T16:17:47 IST" duration-ms="40724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allHealthInsurance -->
+        <test-method is-config="true" signature="closeBowser()[pri:0, instance:testCases.TestCase@24aed80c]" started-at="2024-03-01T16:17:47 IST" name="closeBowser" finished-at="2024-03-01T16:17:49 IST" duration-ms="1287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBowser -->
+      </class> <!-- testCases.TestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

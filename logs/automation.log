@@ -1,0 +1,23 @@
+16:56:16.956 [main] INFO  testCases.TestCase - clicked on continue..
+16:56:17.397 [main] INFO  testCases.TestCase - Medical Condition..
+16:56:20.115 [main] INFO  testCases.TestCase - **** Ending Student Data Verify  *****
+16:56:20.120 [main] INFO  testCases.TestCase - **** starting Data Sort  *****
+16:56:25.374 [main] INFO  testCases.TestCase - Entering Student details.. 
+16:56:30.199 [main] INFO  testCases.TestCase - clicked on continue..
+16:56:33.145 [main] INFO  testCases.TestCase - **** Ending Data Sort  *****
+16:56:33.149 [main] INFO  testCases.TestCase - **** starting Student Plan Detail  *****
+16:56:33.634 [main] INFO  testCases.TestCase - All student first 3 plan..
+16:56:35.421 [main] INFO  testCases.TestCase - **** Ending Student Plan Detail *****
+16:56:35.425 [main] INFO  testCases.TestCase - **** starting Car Insurance Details  *****
+16:56:36.187 [main] INFO  testCases.TestCase - Open of Car Insurance Page 
+16:56:45.361 [main] INFO  testCases.TestCase - Filled all car Datail 
+16:56:45.362 [main] INFO  testCases.TestCase - **** Ending Car Insurence Details  *****
+16:56:45.368 [main] INFO  testCases.TestCase - **** starting Error Message Validate  *****
+16:56:46.960 [main] INFO  testCases.TestCase - Capture Message.. 
+16:56:46.960 [main] INFO  testCases.TestCase - **** Ending Error Message Validate  *****
+16:56:46.965 [main] INFO  testCases.TestCase - **** starting Correct Detail Validation  *****
+16:56:51.434 [main] INFO  testCases.TestCase - **** Ending Correct Datail Validation  *****
+16:56:51.438 [main] INFO  testCases.TestCase - **** starting Health Insurance Plan  *****
+16:57:06.031 [main] INFO  testCases.TestCase - **** Ending Health Insurance Plan  *****
+16:57:06.034 [main] INFO  testCases.TestCase - **** starting All Health Insurance  *****
+16:57:30.149 [main] INFO  testCases.TestCase - **** Ending All Health Insurance  *****
